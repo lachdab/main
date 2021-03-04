@@ -1,3 +1,4 @@
 ![](brain.gif)
 <br>
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=lilflex420&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lilflex420&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
